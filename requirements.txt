@@ -1,0 +1,9 @@
+xlrd
+gensim
+pandas
+numpy
+nltk
+sklearn
+jupyter
+seaborn
+matplotlib
